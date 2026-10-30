@@ -4,7 +4,7 @@ Siswa yang sedang belajar Informatika dan pemrograman.
 
 ## 🛠️ Yang Sedang Saya Pelajari
 - HTML, CSS, JavaScript
-- Python / Java / PHP (isi sesuai yang kamu pelajari)
+- Python / Java / PHP / C#
 - Database (MySQL / SQLite)
 
 ## 📁 Proyek
