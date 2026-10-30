@@ -8,7 +8,7 @@ Siswa yang sedang belajar Informatika dan pemrograman.
 - Database (MySQL / SQLite)
 
 ## 📁 Proyek
-- [proyek-pertamaku](https://github.com/kevinnofandha/proyek-pertamaku)
+Sedang mengerjakan proyek pertama. Segera hadir! 🚀
 
 ## 🎯 Tujuan
 Melanjutkan kuliah di bidang Informatika.
