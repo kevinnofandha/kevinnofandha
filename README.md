@@ -14,4 +14,4 @@ Siswa yang sedang belajar Informatika dan pemrograman.
 Melanjutkan kuliah di bidang Informatika.
 
 ## 📫 Kontak
-- Email: isi-email-kamu@gmail.com
+- Email: kevinnovanda9@gmail.com
