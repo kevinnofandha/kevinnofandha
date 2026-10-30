@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hai, saya Muhammad Kevin Nofandha 👋
 
-<!--
-**kevinnofandha/kevinnofandha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Siswa yang sedang belajar Informatika dan pemrograman.
 
-Here are some ideas to get you started:
+## 🛠️ Yang Sedang Saya Pelajari
+- HTML, CSS, JavaScript
+- Python / Java / PHP (isi sesuai yang kamu pelajari)
+- Database (MySQL / SQLite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Proyek
+- [proyek-pertamaku](https://github.com/kevinnofandha/proyek-pertamaku)
+
+## 🎯 Tujuan
+Melanjutkan kuliah di bidang Informatika.
+
+## 📫 Kontak
+- Email: isi-email-kamu@gmail.com
